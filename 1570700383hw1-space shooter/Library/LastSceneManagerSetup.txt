@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/1570700383hw1-space shooter.unity
+  isLoaded: 1
+  isActive: 1
